@@ -1,3 +1,4 @@
+[< назад к README.md](README.md)
 ##### HoverLook для Dolphin (file manager by KDE)
 
 
@@ -24,3 +25,5 @@
 7. Возможность переключения между `tooltips` и `hoverlook` через конфиг
 8. ... через GUI
 9. Добавние настроек через GUI
+
+[< назад к README.md](README.md)
